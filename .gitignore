@@ -1,0 +1,25 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+app/build/
+
+# 输出物
+*.apk
+*.aab
+*.apks
+
+# 工具运行产物与参考素材（不入库）
+tools/frames/
+tools/matter_src/
+tools/hdmap/
+tools/*.png
+
+# 系统
+Thumbs.db
+tools/matter_bar.kt
